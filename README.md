@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/3545552/original_846dc22addb9a6a8ae0eecd03e0cbbe8.gif?1549041343" alt="Animated illustration" width="400" />
+</p>
+
 <p align="center">A game I contributed to.</p>
 
 <p align="center">

@@ -2,7 +2,7 @@
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/3545552/original_846dc22addb9a6a8ae0eecd03e0cbbe8.gif?1549041343" alt="Animated illustration" width="400" />
 </p>
 
-<p align="center">I contributed to the game's scripting, including character movement, motion, and other gameplay scripts.</p>
+<p align="center">I worked on the scripting, including character movement, etc.</p>
 
 <p align="center">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2569610/ss_22a8e65d86157fb8a7e640a736e726814307bc8c.1920x1080.jpg?t=1727537199" alt="Turbo Chicken Simulator gameplay screenshot" width="800" />

@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/wRMGYNs8LJ0AAAAM/marriage-toxin-marriagetoxin.gif" alt="Animated illustration" width="400" />
 </p>
 
-<p align="center">I worked on the scripting, including character movement, etc.</p>
+<p align="center">I worked on the scripting, including chicken movement, etc.</p>
 
 <p align="center">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2569610/ss_22a8e65d86157fb8a7e640a736e726814307bc8c.1920x1080.jpg?t=1727537199" alt="Turbo Chicken Simulator gameplay screenshot" width="800" />

@@ -13,3 +13,12 @@
     <img src="https://img.shields.io/badge/View_on_Steam-171A21?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="View on Steam" />
   </a>
 </p>
+
+<!-- other-work-footer -->
+<p align="center">Check out my other work in my repositories and on my website.</p>
+
+<p align="center">
+  <a href="https://github.com/marcdanielfalsado?tab=repositories">
+    <img src="./assets/other-work-profile.png" alt="My GitHub profile and other projects" width="1000" />
+  </a>
+</p>
